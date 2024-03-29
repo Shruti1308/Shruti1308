@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I'm Shruti Singh, a B.Tech Computer Science Engineering student based in Bengaluru, Karnataka, India. 
 
 🔭 I’m currently working on my final year capstone project, PatenTrac, exploring innovative solutions for enhancing legal research and analysis in the law domain field.
